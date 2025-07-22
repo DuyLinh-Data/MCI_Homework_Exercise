@@ -4,8 +4,8 @@
 
 ### 🐍 Python & Pandas Exercises
 
-1. [Python Introduction_Exercises_v2.ipynb](./Python%20Introduction_Exercises_v2.ipynb)
-2. [l22-homeworks_v2.ipynb](./l22-homeworks_v2.ipynb)
+1. [Python Introduction_(datatype, slicing...)](./Python%20Introduction_Exercises_v2.ipynb)
+2. [List, dictionary, turple...](./l22-homeworks_v2.ipynb)
 3. [l4-homeworks.ipynb](./l4-homeworks.ipynb)
 4. [l32-l3-exercises.ipynb](./l32-l3-exercises.ipynb)
 5. [l42-restaurant_lab.ipynb](./l42-restaurant_lab.ipynb)
