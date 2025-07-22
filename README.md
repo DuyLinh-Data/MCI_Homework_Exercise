@@ -15,7 +15,47 @@
 
 ### ️🥊 Acquired knowledge
 
-1. Variable, data types, math operations, numbers and strings, boolean, indexing & slicing, input & print
-2. Knowledge:
+1. Introdution:
+- Variable
+- Data types
+- Math operations
+- Numbers and strings
+- Boolean
+- Indexing & slicing
+- Input & print
+3. Knowledge:
    -  Data structure,
    -  List operations (.append(), .pop(), .remove(), .insert(), .sort(), .random.shuffle(), .count(), .join()...)
+   -  Tuples
+   -  Set
+   -  If...else
+   -  For loop
+   -  While loop
+   -  Dictionary
+   -  Enumerate()
+   -  Break, continue, pass
+4. Control flow:
+   -  In/not in
+   -  Random, random.choice()
+   -  List comprehension
+   -  Function
+   -  Lambda
+   -  Errors and exception
+5. Pandas
+   -   Filter
+   -   Location `(loc[]/iloc[])`
+   -   Aggregation
+   -   Sort values
+   -   Concatinating
+   -   Merge, join
+   -   Add column
+   -   Save file
+   -   Groupby
+   -   Pivot table
+   -   Apply
+   -   Time-series
+   -   Data cleaning
+   -   Outliners
+6. Matplotlib and seaborn
+7. Numpy
+8. 
