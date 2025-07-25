@@ -1,61 +1,100 @@
-# MCI_Homework_Exercise
+# 🧠 MCI Homework Exercise Projects
 
-## 📘 Data Science Notebooks
+This repository contains a collection of practical exercises and mini-projects completed as part of the MCI (Modern Computing & Insights) self-learning journey.  
+Each project applies **Python** and **data visualization techniques** to solve real-world data problems and build core analytical skills.
 
-### 🐍 Python & Pandas Exercises
+---
 
-1. [Python Introduction_(datatype, slicing...)](./Python%20Introduction_Exercises_v2.ipynb)
-2. [List, dictionary, turple...](./l22-homeworks_v2.ipynb)
-3. [Loop while, for...](./l4-homeworks.ipynb)
-4. [Join, if...else](./l32-l3-exercises.ipynb)
-5. [EDA - Exploratory Data Analysis](./l42-restaurant_lab.ipynb)
-6. [Pandas](./L5.1%20Titanic%20lab.ipynb)
-7. [Data cleaning](./l62-kickstarter_cleaning_data_lab.ipynb)
-8. [Matplotlib & seaborn](./l72-bicycle_store_lab.ipynb)
+## 📁 Repository Structure
 
-### ️🥊 Acquired knowledge
+```
+MCI_Homework_Exercise/
+│
+├── Lesson_1/
+│   └── Data types and variables
+│
+├── Lesson_2/
+│   └── Control Flow and Functions
+│
+├── Lesson_3/
+│   └── Working with Lists and Loops
+│
+├── Lesson_4/
+│   └── EDA and Data Cleaning
+│
+├── Lesson_5/
+│   └── Titanic Data Analysis
+│
+├── Lesson_6/
+│   └── Kickstarter Data Cleaning
+│
+├── Lesson_7/
+│   └── Sales Data Analysis & Regression
+│
+└── Lesson_8/
+    └── Advanced EDA and Grouping
+```
 
-1. **Introdution:**
-- Variable
-- Data types
-- Math operations
-- Numbers and strings
-- Boolean
-- Indexing & slicing
-- Input & print
-2. **Data structure:**
-   -  Data structure
-   -  List operations (.append(), .pop(), .remove(), .insert(), .sort(), .random.shuffle(), .count(), .join()...)
-   -  Tuples
-   -  Set
-   -  If...else
-   -  For loop
-   -  While loop
-   -  Dictionary
-   -  Enumerate()
-   -  Break, continue, pass
-3. **Control flow:**
-   -  In/not in
-   -  Random, random.choice()
-   -  List comprehension
-   -  Function
-   -  Lambda
-   -  Errors and exception
-4. **Pandas**
-   -   Filter
-   -   Location `(loc[]/iloc[])`
-   -   Aggregation
-   -   Sort values
-   -   Concatinating
-   -   Merge, join
-   -   Add column
-   -   Save file
-   -   Groupby
-   -   Pivot table
-   -   Apply
-   -   Time-series
-   -   Data cleaning
-   -   Outliners
-5. **Matplotlib and seaborn**
-6. **Numpy**
+---
+
+## ✨ Key Skills Practiced
+
+- Python fundamentals (functions, loops, list comprehensions)
+- Data analysis with **Pandas** and **NumPy**
+- Data cleaning and transformation
+- Data visualization using **Matplotlib** and **Seaborn**
+- Exploratory data analysis (EDA)
+- Regression and correlation analysis
+
+---
+
+## 📊 Sample Visualizations
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/DuyLinh-Data/SCA_Lesson/main/Lesson_7/fig1.png" alt="Sales Analysis Plot" width="100%">
+    </td>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/DuyLinh-Data/SCA_Lesson/main/Lesson_7/fig2.png" alt="Regression Output" width="100%">
+    </td>
+  </tr>
+</table>
+
+> *Visualizations from Lesson 7 - Sales Analysis & Regression*
+
+---
+
+## 🚀 How to Use
+
+1. Clone this repository:
+```bash
+git clone https://github.com/DuyLinh-Data/MCI_Homework_Exercise.git
+cd MCI_Homework_Exercise
+```
+
+2. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+3. Open any lesson in Jupyter Notebook:
+```bash
+jupyter notebook Lesson_7/SCA_7_Homework.ipynb
+```
+
+---
+
+## 📌 Takeaways
+
+- 🛠 Hands-on practice builds foundational Python and data analysis skills.
+- 📈 Visualizations help to quickly uncover data trends and business insights.
+- 📚 Exercises simulate real-world data challenges useful for analytics roles.
+
+---
+
+## 👨‍💻 Author
+
+**Nguyễn Duy Linh**  
+📫 [LinkedIn](https://www.linkedin.com/in/nguy%E1%BB%85n-duy-linh/) • 🌐 GitHub: [@DuyLinh-Data](https://github.com/DuyLinh-Data)
 
